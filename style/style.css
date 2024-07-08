@@ -17,7 +17,6 @@
     color: #fff;
     font-size: 40px;
    
-    
 }
 .banner-content, h2{
     color: #fff;
@@ -32,3 +31,29 @@
     align-items: center;
 }
 
+.all-category{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 800px;
+    align-items: center;
+}
+.offer{
+    font-size: 70px;
+    font-weight: bold;
+    color: red;
+    margin-bottom: 20px;
+}
+
+.deals{
+  color: red;
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+.category{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
